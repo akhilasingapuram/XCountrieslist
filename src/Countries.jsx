@@ -25,7 +25,7 @@ const CountryCard = ({ country }) => {
           height: "320px",
         }}
       />
-      <h3>{country.common}</h3>
+      <h2>{country.common}</h2>
     </div>
   );
 };
